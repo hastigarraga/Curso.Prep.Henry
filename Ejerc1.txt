@@ -1,0 +1,5 @@
+Variables: es donde se almacena algun valor. 
+Strings: cadenas de caracteres o palabras 
+Funciones (argumentos, 'return'): finaliza con la funcion y retorna con el valor de dicha funcion. 
+Declaraciones if: es una expresion condicional. 
+Valores Booleanos (true, false): se usa para ejecutar alguna sentencia.
