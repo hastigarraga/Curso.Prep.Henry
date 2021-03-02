@@ -1,0 +1,2 @@
+For: se usa para cuando queremos repetir una intruccion en un numero determinado de veces 
+&&, ||, !: simbolos que sirven para evaluar expresiones, comparandolas entre si.
