@@ -20,8 +20,8 @@ describe('crearGato(nombre, edad)', function() {
   it('should create a new cat with the nombre and edad properties set', function() {
     expect(crearGato('Snowball', 1).nombre).toBe('Snowball');
     expect(crearGato('Snowball', 1).edad).toBe(1);
-    expect(crearGato('Snowball II', 5).nombre).toBe('Snowball II');
-    expect(crearGato('Snowball II', 5).edad).toBe(5);
+    expect(crearGato('Snowball', 1).nombre).toBe('Snowball');
+    expect(crearGato('Snowball', 1).edad).toBe(1);
   });
   it('should add a method called meow to the new cat object', function() {
     expect(crearGato('Snowball III', 2).meow()).toBe('Meow!');

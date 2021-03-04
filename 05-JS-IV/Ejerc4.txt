@@ -1,0 +1,5 @@
+Objetos: es un conjunto de datos que tienen variables y funciones de distintos tipos.
+Propiedades: son elementos que tienen valores de distintos tipos como cadenas de texto, numeros, arreglos, etc
+Metodos: son funciones que estan dentro de un objeto.
+Bucles (for in): tienen la misma funcionalidad que un for pero se usan para hacer correr en objetos ya que no tienen indices numericos.
+Notacion de puntos y corchetes: se utilizan para acceder a los elementos de alguna propiedad que tiene dicho objeto.
