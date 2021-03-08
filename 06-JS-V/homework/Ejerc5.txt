@@ -1,0 +1,2 @@
+Prototype: es un metodo de una clase establecido una vez donde pueden tener acceso varios objetos.
+Constructors: es un metodo especial para crear e inicializar un objeto creado con una clase.
